@@ -1,0 +1,123 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+/**header styling**/
+
+header {
+  background-image: url("http://cdn.actionrecon.com/wp-content/uploads/2010/10/6176.jpg");
+  background-size:cover;
+  height: 500px;
+  width: 1300px;
+}
+.pageTitle{
+  padding:.5em;
+  margin:0em;
+  font-family:poiret one;
+}
+
+#titleone {
+  font-size:70px;
+}
+
+#titletwo {
+  font-size:35px;
+  margin: 40px 90px
+ 
+}
+
+/* section styling*/
+
+section {
+padding:1em;
+margin: 1em auto;
+font-family:Droid Sans;
+background-size:cover;
+font-size:25px;
+width:900px;
+height:500px;
+}
+
+.sectionTitle{
+  font-size: 75px;
+  text-align: center;
+  padding: 3em 1em 10px 50px;
+  margin: 0em;
+}
+
+div{
+  padding:1em;
+  margin:1em auto;
+  width:900px;
+  height:500px;
+}
+
+#tanner{
+  background-image:url("http://www.fishercreative.com/data/photos/173_1tanner_hall_portrait_white_seamless.jpg");
+}
+
+#candide{
+  background-image:url("http://medias.lequipe.fr/adrenaline/img-photo-jpg/candide-thovex/13074/0:0,1024:577-900-0-/9dc90");
+}
+
+#eric{
+  background-image:url("http://www.theskichannel.com/wp-content/uploads/2012/01/20120111_ericpollard3-1024x682.jpg");
+  width:900px;
+  height:500px;
+  
+}
+.fixed{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#section1{
+ 
+   background-image:url(http://image1.redbull.com/rbcom/010/2014-12-17/1331695721247_2/0010/1/1000/500/2/sean-pettit.jpg);
+}
+.section1{
+  background:rgba(79, 98, 142, .1);
+}
+#section2{
+  background-image:url(http://ski.canada.travel/app/uploads/2015/01/p-20120306-00109_news-1.jpg);
+}
+
+#section3{
+  background-image:url(http://armadaskis.com/cms/wp-content/uploads/2014/08/TannerHERO_1000x400.jpg?30eb71);
+}
+#section4{
+  background-image:url(https://scopridovequando.files.wordpress.com/2012/11/quiksilver_few_words_candide-thovex.jpg)
+}
+#section5{
+  background-image: url(http://i.ytimg.com/vi/ivG4ZHt5e4c/maxresdefault.jpg);
+}
+
+.bio{
+  background-color: #061539;
+  padding:.5em;
+  opacity:.8;
+  color:white;
+}
+
+#section6{
+  text-align:center;
+  padding: 30px;
+  height: 300px;
+}
+
+/* footer styling*/
+
+.socialMedia {
+ padding:3em;
+ opacity:.9;
+}
+footer{
+  font-size:10px;
+  text-align:center;
+  padding:4em;
+  color:white;
+  background-color: #061539;
+}
+
+
